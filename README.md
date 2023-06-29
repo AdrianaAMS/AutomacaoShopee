@@ -1,9 +1,24 @@
 # Automação - Shopee com Selenium Webdriver java
 
-## Este é um projeto Maven e foi criado utilizando so resursos abaixo:
-Java, Maven, Junit, Selenium, Intellij
+## Automação desesenvolvida com o objetivo de praticar:
 
- Validação dos tests no navegador Google Chrome.
+## Tecnologias
 
- Projeto em andamento...
+[Principais tecnologias utilizadas]
+
+- Java JDK 8
+- Maven
+- Selenium 
+
+## Recursos
+
+[O Que essa automação faz]
+
+- Acessa o site da Shopee Brasil 
+- Rejeita todos os cookies
+- Pesquisa por um produto
+- Inclui o produto no carrinho
+
+## Pré-requisitos ... em breve
+
 
